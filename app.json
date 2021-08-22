@@ -1,7 +1,7 @@
 {
-  "name": "Project Fizilion",
+  "name": "HM RIRURU AI",
   "description": "A modular Telegram userbot running on Python 3.8+ with an sqlalchemy database.",
-  "logo": "https://github.com/PrajjUS/ProjectFizilion/raw/demon/resources/Fizilion.png",
+  "logo": "https://telegra.ph/file/63ed850d28a0e47656fcd.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/PrajjuS/ProjectFizilion",
-  "website": "https://t.me/PrajjuS",
-  "success_url": "https://t.me/ProjectFizilion",
+  "repository": "https://github.com/HM-MODS/HM-RIRURU-AI",
+  "website": "https://t.me/HM_MODS",
+  "success_url": "https://t.me/HM_MODS",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -178,7 +178,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default profile bio.",
-      "value": "[PM = Report Spam] I ❤ ️Fizilion",
+      "value": "[PM = Report Spam] I ❤ ️HM_MODS",
       "required": false
     },
     "ALIVE_NAME": {
@@ -223,7 +223,7 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "12"
+        "version": "13"
       }
     }
   ]
